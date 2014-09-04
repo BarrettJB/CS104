@@ -1,4 +1,4 @@
-CS104
+CS  104
 =====
 
-My code from cs104 at calvin
+This is uploaded as examples of working code from CS104 at calvin college. Feel free to look at it. Please make sure you are not plagurizing this material.
