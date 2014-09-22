@@ -1,0 +1,19 @@
+Enter length of pendulum(cm):120
+Enter angle of displacement(radians):15
+The period of the pendulum is 2.68227332189 seconds. Given that length: 120.0 cm and angle of displacement: 15.0 radians
+
+Enter length of pendulum(cm):90
+Enter angle of displacement(radians):20
+The period of the pendulum is 2.0449742877 seconds. Given that length: 90.0 cm and angle of displacement: 20.0 radians
+
+Enter length of pendulum(cm):60
+Enter angle of displacement(radians):405
+The period of the pendulum is 1.93654801339 seconds. Given that length: 60.0 cm and angle of displacement: 405.0 radians
+
+Enter length of pendulum(cm):74.6
+Enter angle of displacement(radians):10
+The period of the pendulum is 2.13206287648 seconds. Given that length: 74.6 cm and angle of displacement: 10.0 radians
+
+Enter length of pendulum(cm):83.6
+Enter angle of displacement(radians):12
+The period of the pendulum is 1.87096045782 seconds. Given that length: 83.6 cm and angle of displacement: 12.0 radians
